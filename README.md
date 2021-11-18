@@ -7,7 +7,10 @@
 
 1.本仓库的题库未填正确选项,需要自行修改
 
-2.将题目的答案填入'/extension/js/data.js' 中的 answer中, (大写字母ABCD) , 判断题则为正确为A,错误为B. (多选题不同字母之间不用隔任何字符)
+2.将题目的答案填入 [extension/js/data.js](/extension/js/data.js) 中的 **answer**中,
+  -  (大写字母ABCD) , 
+  -  判断题则为正确为A,错误为B. 
+  -  多选题不同字母之间**不用**隔任何字符
 
 3.安装脚本,开始使用
 
@@ -15,28 +18,26 @@
 -------------
 原作者概述:
 
-作者：tanyiqu，也就是本人自己
-
-软件是一个浏览器扩展，安装后点击图标即可使用
-
-
-
-项目地址：https://github.com/tanyiqu/religious-auto
-
-下载：https://github.com/tanyiqu/religious-auto/releases
-
-太慢了的话，用网盘链接：https://tanyiqu.lanzoui.com/b0cqofvfe
-
-**一定对你有用的，请给我的项目点个star**
-
-
-
-**仅做学习用途**
-
-思路：
-
-- 使用浏览器扩展方式
-- 注入jquery.js
-- 注入script.js脚本
-- 在script.js中，遍历已有的题库，使用jquery在页面中获取这道题。如果有这道题就把答案选中，没有这道题就跳过
-- 最后点击交卷的时候，系统会自动查找哪道题没有做，最后再做了就行
+> 作者：tanyiqu，也就是本人自己
+>
+> 软件是一个浏览器扩展，安装后点击图标即可使用
+> 
+> 
+> 
+> 项目地址：https://github.com/tanyiqu/religious-auto
+> 
+> 下载：https://github.com/tanyiqu/religious-auto/releases
+> 
+> 太慢了的话，用网盘链接：https://tanyiqu.lanzoui.com/b0cqofvfe
+> 
+> **一定对你有用的，请给我的项目点个star**
+>
+> **仅做学习用途**
+> 
+> 思路：
+> 
+> - 使用浏览器扩展方式
+> - 注入jquery.js
+> - 注入script.js脚本
+> - 在script.js中，遍历已有的题库，使用jquery在页面中获取这道题。如果有这道题就把答案选中，没有这道题就跳过
+> - 最后点击交卷的时候，系统会自动查找哪道题没有做，最后再做了就行
