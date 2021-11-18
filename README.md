@@ -1,6 +1,6 @@
 # 河南省宗教自动答题脚本，可自定义时间
 
-![GIF](https://github.com/zkeq/religious-auto_data-py/blob/7b231741b6832e9167a757ef815745db9c4a2670/GIF.gif)
+![GIF](https://edu-image.nosdn.127.net/D97468EE8EBE2D04A09C4B76A3F55FE6.gif)
 
 作者：tanyiqu，也就是本人自己
 
