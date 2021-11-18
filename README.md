@@ -1,5 +1,7 @@
 ## 河南省宗教自动答题脚本，可自定义时间
 #### (未填正确选项,需自行修改!!)
+生成题库的项目 : [python提取题库信息自动化脚本](https://github.com/zkeq/religious-auto_data-py)
+(自己写的
 
 ![GIF](https://edu-image.nosdn.127.net/D97468EE8EBE2D04A09C4B76A3F55FE6.gif)
 
