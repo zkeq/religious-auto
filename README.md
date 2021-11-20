@@ -21,7 +21,7 @@
 
 2.本仓库的题库未填正确选项,需要自行修改
 
-3.将题目的答案填入 [extension/js/data.js](/extension/js/data.js) 中的 **answer**中,
+3.将题目的答案填入 [extension/js/data.js](/extension/js/data.js) 中的 **answer**中,(本步骤已经由本人完成......就是答案正确率不是100%,请看下一步)
   -  (大写字母ABCD) , 
   -  判断题则为正确为A,错误为B. 
   -  多选题不同字母之间**不用**隔任何字符
