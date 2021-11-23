@@ -13,6 +13,7 @@
 可以自己去题库里面搜  [不确定]   这个字符,可以看到我不大会做的题
 
 生成题库的项目 : [python提取题库信息自动化脚本](https://github.com/zkeq/religious-auto_data-py)
+
 (自己写的  [题库不大正确,大概90分到95分差不多][没得过80多分,也没超过多95分)
 
 ![GIF](https://edu-image.nosdn.127.net/D97468EE8EBE2D04A09C4B76A3F55FE6.gif)
