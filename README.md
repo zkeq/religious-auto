@@ -3,7 +3,7 @@
 使用教程: 
 
 <video width="100%" height="100%" controls="">
-    <source src="https://gitee.com/zkeq/religious-auto/raw/main/not100.mp4" type="video/mp4" />
+    <source src="https://learnonly-7.oss-cn-qingdao.aliyuncs.com/not100.mp4?OSSAccessKeyId=LTAI5t8mdoK2XjULJtDEpNCP&Expires=1637635155&Signature=TxtTwIeaQ24GWPAE%2BMLWbOBdVvc%3D" type="video/mp4" />
 </video>
 
 ### (已更新加密题库)
