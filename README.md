@@ -4,7 +4,9 @@
 
 ## 河南省宗教自动答题脚本，要等15分钟
 
-##### [Python安装环境配置点击查看(已有python的直接看下面的就行)](https://public-zkeq.oss-cn-beijing.aliyuncs.com/Python.mp4)
+##### [Python安装视频教程点击查看(已有python的直接看下面的就行)](https://public-zkeq.oss-cn-beijing.aliyuncs.com/Python.mp4)
+
+###### 记得要勾选`Add Python 3.X to PATH`!!!!!!!!!!!!!!!!!!!
 
 ##### [Python安装图文教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624)
 
