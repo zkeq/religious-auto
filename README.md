@@ -1,9 +1,5 @@
 ## 河南省宗教自动答题脚本，可自定义时间
 
-### 使用教程
-
-![not100](https://public-zkeq.oss-cn-beijing.aliyuncs.com/nit1000.gif)
-
 ### (已更新加密题库)
 
 #### (非官方题库,平均分93 94)
