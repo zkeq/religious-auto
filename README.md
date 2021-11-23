@@ -4,7 +4,7 @@
 
 ## 河南省宗教自动答题脚本，要等15分钟
 
-## [安装视频教程点击查看](https://gitee.com/zkeq/religious-auto/raw/main/not100.mp4)
+## [安装视频教程点击查看](https://public-zkeq.oss-cn-beijing.aliyuncs.com/nit1000.mp4)
 
 ### (已更新加密题库)
 
