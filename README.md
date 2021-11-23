@@ -1,5 +1,7 @@
 ## 河南省宗教自动答题脚本，可自定义时间
 
+## [视频教程点击查看](https://gitee.com/zkeq/religious-auto/raw/main/not100.mp4)
+
 ### (已更新加密题库)
 
 #### (非官方题库,平均分93 94)
