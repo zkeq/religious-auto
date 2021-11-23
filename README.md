@@ -1,6 +1,6 @@
 最后更新时间 2021-11-23  下午18点06分
 
-[手动搜题可在此查看对应表](https://github.com/zkeq/religious-auto/blob/main/extension/js/data.js)
+[<------手动搜题可点击此处查看对应表------>](https://github.com/zkeq/religious-auto/blob/main/extension/js/data.js)
 
 (按以下视频操作,1小时左右可完成1个账号,后续此账户可不限次数刷题(90-96分),直到满意为止)
 
