@@ -4,6 +4,8 @@
 
 ## 河南省宗教自动答题脚本，要等15分钟
 
+##### [Python安装环境配置点击查看(已有python的直接看下面的就行)](https://public-zkeq.oss-cn-beijing.aliyuncs.com/Python.mp4)
+
 ## [安装视频教程点击查看](https://public-zkeq.oss-cn-beijing.aliyuncs.com/nit1000.mp4)
 
 ### (已更新加密题库)
