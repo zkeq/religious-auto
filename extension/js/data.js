@@ -953,7 +953,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E135O5Q2O0O0OO0O0O',
     'uid': 'topicid_1000179',
     'question_txt': '79、邪教的本质及危害性是（）。|反人类||反科学||反社会||反政府|',
-    'answer': 'ABC',
+    'answer': 'ABCD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已发现一个错误并改正]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E145M5A2O0O0OO0O0O',
@@ -971,7 +971,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E145M5g2O0O0OO0O0O',
     'uid': 'topicid_1000182',
     'question_txt': '52、科学无神论的教育，并不仅仅限于单纯否定神灵的存在。它的最主要的内容是（），还包括（）和（）。|运用马克思主义的科学世界观认识宗教的本质及其发展规律||社会科学知识的普及，社会进化||自然科学知识的普及，社会进化||人的生老病死,吉凶祸福的科学文化和社会科学知识的宣传|',
-    'answer': 'ABCD',
+    'answer': 'ACD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已发现一个错误并改正]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E145M5w2O0O0OO0O0O',
@@ -983,7 +983,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E145N5A2O0O0OO0O0O',
     'uid': 'topicid_1000184',
     'question_txt': '56、坚持我国宗教中国化方向，要求宗教界在（）上自觉认同；坚持我国宗教中国化方向，要求宗教界在（）上自觉融合；坚持我国宗教中国化方向，要求宗教界在（）上自觉适应。|经济||政治||文化||社会|',
-    'answer': 'BCD',
+    'answer': 'ABC',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E145N5Q2O0O0OO0O0O',
@@ -1025,7 +1025,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E155M5Q2O0O0OO0O0O',
     'uid': 'topicid_1000191',
     'question_txt': '57、新时代党的治藏方略“十个必须”必须中，西藏经济社会发展的出发点和落脚点是（）、（）。|改善民生||凝聚人心||维护祖国统一||加强民族团结|',
-    'answer': 'AB',
+    'answer': 'CD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E155M5g2O0O0OO0O0O',
@@ -1067,7 +1067,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E155O5A2O0O0OO0O0O',
     'uid': 'topicid_1000198',
     'question_txt': '79、习近平总书记在全国民族团结进步表彰大会上指出，要把民族团结进步创建全面深入持久开展起来，创新方式载体，推动进机关、进企业、进（）、进（）、进（）、进连队、进（）等。|社区||乡镇||学校||宗教活动场所|',
-    'answer': 'BCD',
+    'answer': 'ABCD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E155O5Q2O0O0OO0O0O',
@@ -1499,7 +1499,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0I135M5w2O0O0OO0O0O',
     'uid': 'topicid_1000273',
     'question_txt': '97、《宗教事务条例》第五十六条规定，宗教团体、宗教院校、宗教活动场所、信教群众可以依法兴办公益慈善事业。|正确||错误|',
-    'answer': 'B',
+    'answer': 'A',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0I135N5A2O0O0OO0O0O',
@@ -1541,7 +1541,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0I145N5Q2O0O0OO0O0O',
     'uid': 'topicid_1000285',
     'question_txt': '79、新时代党的治藏方略“十个必须”必须中，西藏工作的着眼点和着力点是（）、（）。|凝聚人心||改善民生||维护祖国统一||加强民族团结|',
-    'answer': 'ABCD',
+    'answer': 'CD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已发现一个错误并改正][不确定]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0I145N5g2O0O0OO0O0O',
@@ -1601,7 +1601,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0I155N5g2O0O0OO0O0O',
     'uid': 'topicid_1000296',
     'question_txt': '下列关于依法管理宗教事务的说法，正确的是（)。||依法进行管理，就是要切实保障宗教信仰自由，保证正常宗教活动的有序进行，保护宗教团体的合法权益。||依法管理宗教事务的要旨是保护合法、制止非法、遏制极端、抵御渗透、打击犯罪。||依法管理宗教事务，要管理违背宗教信仰自由政策，侵犯公民宗教信仰自由权利，侵犯宗教教职人员履行正常教务权利，侵犯宗教组织合法权益的事情。||依法管理宗教事务，要规范那些以“宗教信仰自由”为借口，违背宪法、法律和政策的事情，防止和制止不法分子利用宗教活动制造混乱，违法犯罪，以及境外敌对势力的渗透活动。',
-    'answer': 'ABD',
+    'answer': 'ABCD',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0I155N5w2O0O0OO0O0O',
