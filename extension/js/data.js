@@ -1,6 +1,7 @@
 // 在此定义题库  
 // 将answer内的值改为正确选项即可
 // 有用的值为id 和 answer ,其余值均为提示作用,故只保留了question_txt
+// 请注意这里的 id 此时已经无用(官方已经更新了加密算法) !
 const question_bank =   [{   
     'id': 'topicid_M1T0A0w1M7D0A1w5M5Q2O0O0OO0O0O',
     'uid': 'topicid_1000001',
