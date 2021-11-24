@@ -8,13 +8,13 @@
 
 ## 河南省宗教自动答题脚本，要等15分钟
 
-##### [Python安装视频教程点击查看(已有python的直接看下面的就行)](https://gitee.com/zkeq/whu/blob/master/Python.mp4)(下载后观看)
+##### [Python安装视频教程点击查看(已有python的直接看下面的就行)](https://gitee.com/zkeq/whu/raw/master/Python.mp4)(下载后观看)
 
 ###### 记得要勾选`Add Python 3.X to PATH`!!!!!!!!!!!!!!!!!!!
 
 ##### [Python安装图文教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624)
 
-## [安装视频教程点击查看](https://gitee.com/zkeq/whu/blob/master/nit1000.mp4)(下载后观看)
+## [安装视频教程点击查看](https://gitee.com/zkeq/whu/raw/master/nit1000.mp4)(下载后观看)
 
 ### (已更新加密题库)
 
