@@ -756,7 +756,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E105N5g2O0O0OO0O0O',
     'uid': 'topicid_1000146',
     'question_txt': '33、信教公民举行集体宗教活动一般应在经登记的寺院、宫观、清真寺、教堂和（）。|公共场所||聚会点||其他固定宗教活动场所||依法登记的其他固定宗教活动处所|',
-    'answer': 'C',
+    'answer': 'D',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已校验]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E105N5w2O0O0OO0O0O',
