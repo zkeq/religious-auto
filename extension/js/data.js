@@ -864,7 +864,7 @@ const question_bank =   [{
 {   'id': 'topicid_M1T0A0w1M7D0E125N5A2O0O0OO0O0O',
     'uid': 'topicid_1000164',
     'question_txt': '文化认同是民族团结的（）||基础||保障||目标||根脉',
-    'answer': 'A',
+    'answer': 'D',
     'answer_txt': '使用说明:将正确答案填入answer的引号中就可,多选不用间隔,示例 *A* *ABCD*[已发现一个错误并改正]'
 },
 {   'id': 'topicid_M1T0A0w1M7D0E125N5Q2O0O0OO0O0O',
