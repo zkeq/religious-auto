@@ -2,7 +2,7 @@
 
 # 本方法已失效.官网目前套了好几层加密...
 
-#### 推荐项目: https://github.com/aqz236/hnzjdt
+# 推荐项目: https://github.com/aqz236/hnzjdt
 
 [<------不过, 手动搜题的话  可点击此处查看对应表------>](https://github.com/zkeq/religious-auto/blob/main/extension/js/data.js)
 
